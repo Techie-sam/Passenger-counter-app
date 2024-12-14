@@ -1,5 +1,8 @@
 # 🚶 Passenger Counter App
 
+## 🌐 Voir le Projet en Direct
+[Cliquez ici pour voir l'application](https://techie-sam.github.io/Passenger-counter-app/)
+
 ## 📝 Description
 Une application web super simple pour compter et suivre le nombre de personnes.
 
@@ -21,7 +24,7 @@ Une application web super simple pour compter et suivre le nombre de personnes.
 4. Visualisez l'historique des entrées précédentes
 
 ## 🖼 Capture d'écran
-![Aperçu de l'application](img.jpg)
+![Aperçu de l'application](aperçu.jpg)
 
 ## 🔧 Fonctionnalités Principales
 - Incrémentation du compteur
