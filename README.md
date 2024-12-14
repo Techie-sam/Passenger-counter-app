@@ -24,7 +24,7 @@ Une application web super simple pour compter et suivre le nombre de personnes.
 4. Visualisez l'historique des entrées précédentes
 
 ## 🖼 Capture d'écran
-![Aperçu de l'application](aperçu.jpg)
+![Aperçu de l'application](aperçu.png)
 
 ## 🔧 Fonctionnalités Principales
 - Incrémentation du compteur
