@@ -25,7 +25,8 @@ Une application web super simple pour compter et suivre le nombre de personnes.
 
 ## 🖼 Capture d'écran
 ![Aperçu de l'application](aperçu.png)
-
+## 🖼 Capture d'écran
+<img src="apercu.png" alt="Interface de l'application Passenger Counter" width="400">
 ## 🔧 Fonctionnalités Principales
 - Incrémentation du compteur
 - Sauvegarde de l'historique des comptages
