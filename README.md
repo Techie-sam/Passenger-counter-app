@@ -1,7 +1,7 @@
 # 🚶 Passenger Counter App
 
 ## 📝 Description
-Une application web simple et élégante pour compter et suivre le nombre de personnes.
+Une application web super simple pour compter et suivre le nombre de personnes.
 
 ## ✨ Fonctionnalités
 - Compteur incrémental
